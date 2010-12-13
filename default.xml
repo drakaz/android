@@ -39,12 +39,12 @@
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="froyo-stable"/>
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/clearsilver" name="platform/external/clearsilver" />
-  <project path="external/compcache" name="CyanogenMod/android_external_compcache" revision="master" remote="github" revision="froyo-stable"/>
+  <project path="external/compcache" name="CyanogenMod/android_external_compcache" revision="master" remote="github"/>
   <project path="external/dbus" name="platform/external/dbus" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" />
   <project path="external/dnsmasq" name="platform/external/dnsmasq" />
-  <project path="external/dropbear" name="CyanogenMod/android_external_dropbear" revision="master" remote="github" revision="froyo-stable"/>
-  <project path="external/e2fsprogs" name="CyanogenMod/android_external_e2fsprogs" revision="master" remote="github" revision="froyo-stable"/>
+  <project path="external/dropbear" name="CyanogenMod/android_external_dropbear" revision="master" remote="github"/>
+  <project path="external/e2fsprogs" name="CyanogenMod/android_external_e2fsprogs" revision="master" remote="github"/>
   <project path="external/easymock" name="platform/external/easymock" />
   <project path="external/elfcopy" name="platform/external/elfcopy" />
   <project path="external/elfutils" name="platform/external/elfutils" />
@@ -64,7 +64,7 @@
   <project path="external/icu4c" name="platform/external/icu4c" />
   <project path="external/iproute2" name="platform/external/iproute2" />
   <project path="external/ipsec-tools" name="platform/external/ipsec-tools" />
-  <project path="external/iptables" name="CyanogenMod/android_external_iptables" revision="master" remote="github" revision="froyo-stable"/>
+  <project path="external/iptables" name="CyanogenMod/android_external_iptables" revision="master" remote="github"/>
   <project path="external/jdiff" name="platform/external/jdiff" />
   <project path="external/jhead" name="platform/external/jhead" />
   <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" remote="github" revision="froyo-stable"/>
@@ -72,19 +72,19 @@
   <project path="external/junit" name="platform/external/junit" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" />
   <project path="external/libffi" name="platform/external/libffi" />
-  <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="github" revision="libncurses-5.7-froyo" revision="froyo-stable"/>
+  <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="github" revision="libncurses-5.7-froyo"/>
   <project path="external/libpcap" name="platform/external/libpcap" />
   <project path="external/libpng" name="CyanogenMod/android_external_libpng" remote="github" revision="froyo-stable"/>
   <project path="external/libxml2" name="platform/external/libxml2" />
   <project path="external/lzo" name="fries/android-external-liblzo" revision="master" remote="github"/>
   <project path="external/mtpd" name="CyanogenMod/android_external_mtpd" remote="github" revision="froyo-stable"/>
-  <project path="external/nano" name="CyanogenMod/android_external_nano" remote="github" revision="nano-2.2.4-froyo" revision="froyo-stable"/>
+  <project path="external/nano" name="CyanogenMod/android_external_nano" remote="github" revision="nano-2.2.4-froyo"/>
   <project path="external/netcat" name="platform/external/netcat" />
   <project path="external/netperf" name="platform/external/netperf" />
   <project path="external/neven" name="platform/external/neven" />
   <project path="external/opencore" name="CyanogenMod/android_external_opencore" remote="github" revision="froyo-stable"/>
   <project path="external/openssl" name="CyanogenMod/android_external_openssl" remote="github" revision="froyo-stable"/>
-  <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" remote="github" revision="master" revision="froyo-stable"/>
+  <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" remote="github" revision="master"/>
   <project path="external/oprofile" name="platform/external/oprofile" />
   <project path="external/ping" name="platform/external/ping" />
   <project path="external/ppp" name="platform/external/ppp" />
@@ -108,7 +108,7 @@
   <project path="external/tremolo" name="platform/external/tremolo" />
   <project path="external/v8" name="CyanogenMod/android_external_v8" remote="github" revision="froyo-stable"/>
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" remote="github" revision="froyo-stable"/>
-  <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" remote="github" revision="master" revision="froyo-stable"/>
+  <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" remote="github" revision="master"/>
   <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" remote="github" revision="froyo-stable"/>
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" remote="github" revision="froyo-stable"/>
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
@@ -145,14 +145,14 @@
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
   <project path="packages/apps/Camera" name="nopy/gaosp_packages_apps_Camera" remote="github" revision="gaosp-froyo" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
-  <project path="packages/apps/CMParts" name="CyanogenMod/android_packages_apps_CMParts" remote="github" revision="master" revision="froyo-stable"/>
+  <project path="packages/apps/CMParts" name="CyanogenMod/android_packages_apps_CMParts" remote="github" revision="master"/>
   <project path="packages/apps/CMPartsHelper" name="CyanogenMod/android_packages_apps_CMPartsHelper" remote="github" revision="froyo-stable"/>
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" remote="github" revision="froyo-stable"/>
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" remote="github" revision="froyo-stable"/>
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" remote="github" revision="froyo-stable"/>
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="github" revision="froyo-stable"/>
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" remote="github" revision="froyo-stable"/>
-  <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" remote="github" revision="master" revision="froyo-stable"/>
+  <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" remote="github" revision="master"/>
   <project path="packages/apps/Gallery" name="Obihoernchen/android_packages_apps_Gallery" remote="github" />
   <project path="packages/apps/Gallery3D" name="Androbot/android_packages_apps_Gallery3D" remote="github" />
   <project path="packages/apps/GaospConf" name="Obihoernchen/gaosp_packages_apps_GaospConf" remote="github" revision="release" />
@@ -171,7 +171,7 @@
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" remote="github" revision="froyo-stable"/>
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
-  <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="master" revision="froyo-stable"/>
+  <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="master"/>
   <project path="packages/apps/Torch" name="nopy/android_packages_apps_Torch" remote="github" revision="master" />
   <project path="packages/apps/TSCalibration" name="CyanogenMod/android_packages_apps_TSCalibration" remote="github" revision="froyo-stable"/>
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" remote="github" revision="froyo-stable"/>
