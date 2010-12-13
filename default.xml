@@ -165,7 +165,7 @@
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/Phone" name="drakaz/gaosp_packages_apps_Phone" remote="github" revision="gaosp-froyo" />
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" remote="github" revision="froyo-stable"/>
-  <project path="packages/apps/Provision" name="platform/packages/apps/Provision" revision="froyo-stable"/>
+  <project path="packages/apps/Provision" name="platform/packages/apps/Provision"/>
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
   <project path="packages/apps/Settings" name="drakaz/gaosp_android_packages_apps_Settings" remote="github" revision="gaosp-froyo" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" remote="github" revision="froyo-stable"/>
