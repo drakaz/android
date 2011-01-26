@@ -14,6 +14,7 @@
   <project path="bionic" name="CyanogenMod/android_bionic" remote="github" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
+  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="github" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" />
   <project path="development" name="CyanogenMod/android_development" remote="github" />
   <project path="device/common" name="device/common" />
@@ -230,6 +231,8 @@
   
   <project path="PSFreedom" name="drakaz/PSFreedom_I7500" remote="github" revision="master" />
   <project path="PSFreedom/pl3" name="kakaroto/PL3" remote="github" revision="master" />
+
+  <project path="external/klogtail" name="nopy/android_external_klogtail" remote="github" revision="master" />
 
 </manifest>
 
