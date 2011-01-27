@@ -233,6 +233,7 @@
   <project path="PSFreedom/pl3" name="kakaroto/PL3" remote="github" revision="master" />
 
   <project path="external/klogtail" name="nopy/android_external_klogtail" remote="github" revision="master" />
+  <project path="packages/apps/GaospConf" name="Obihoernchen/gaosp_packages_apps_GaospConf" remote="github" revision="release" />
 
 </manifest>
 
