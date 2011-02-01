@@ -228,7 +228,7 @@
 
   <project path="android" name="drakaz/android" remote="github" revision="gaosp-gingerbread" />
   
-  <project path="gaosp-kernel" name="drakaz/gaosp_kernel" remote="github" revision="gaosp-2.6.29"/>
+  <project path="gaosp-kernel" name="drakaz/gaosp_kernel" remote="github" revision="gaosp-2.6.29-gingerbread"/>
   
   <project path="PSFreedom" name="drakaz/PSFreedom_I7500" remote="github" revision="master" />
   <project path="PSFreedom/pl3" name="kakaroto/PL3" remote="github" revision="master" />
