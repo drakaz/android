@@ -19,7 +19,7 @@
   <project path="development" name="CyanogenMod/android_development" remote="github" />
   <project path="device/common" name="device/common" />
   <project path="device/sample" name="device/sample" />
-  <project path="device/samsung/I7500" name="drakaz/gaosp_vendor" remote="github" revision="gaosp-gingerbread"/>
+  <project path="device/samsung/I7500" name="drakaz/gaosp_vendor" remote="github" revision="gaosp-gingerbread-cmkernel"/>
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" remote="github" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" remote="github" />
   <project path="external/apache-http" name="platform/external/apache-http" />
@@ -123,8 +123,8 @@
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/gpsshim" name="CyanogenMod/android_hardware_gpsshim" remote="github" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="github" />
-  <project path="hardware/libhardware_legacy" name="drakaz/gaosp_hardware_libhardware_legacy" remote="github" revision="gaosp-gingerbread" />
-  <project path="hardware/msm7k" name="drakaz/gaosp_hardware_msm7k" remote="github" revision="gaosp-gingerbread"/>
+  <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" remote="github" />
+  <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="github" />
   <project path="hardware/qcom/gps" name="drakaz/gaosp_hardware_qcom_gps" remote="github" revision="gaosp-gingerbread" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" remote="github" />
   <project path="hardware/ril" name="drakaz/gaosp_hardware_ril" remote="github" revision="gaosp-gingerbread" />
@@ -195,8 +195,8 @@
   <project path="system/core" name="drakaz/gaosp_system_core" remote="github" revision="gaosp-gingerbread" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" />
   <project path="system/media" name="platform/system/media" />
-  <project path="system/netd" name="drakaz/gaosp_system_netd" remote="github" revision="gaosp-gingerbread" />
-  <project path="system/vold" name="drakaz/gaosp_system_vold" remote="github" revision="gaosp-gingerbread" />
+  <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" />
+  <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" remote="github" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="refs/heads/master" />
@@ -208,7 +208,7 @@
 
   <project path="android" name="drakaz/android" remote="github" revision="gaosp-gingerbread" />
   
-  <project path="gaosp-kernel" name="drakaz/gaosp_kernel" remote="github" revision="gaosp-2.6.29-gingerbread"/>
+  <project path="cm-kernel" name="drakaz/cm-kernel" remote="github" revision="android-msm-2.6.35-unified-wip"/>
   
   <project path="PSFreedom" name="drakaz/PSFreedom_I7500" remote="github" revision="master" />
   <project path="PSFreedom/pl3" name="kakaroto/PL3" remote="github" revision="master" />
