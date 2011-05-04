@@ -215,6 +215,7 @@
 
   <project path="external/klogtail" name="nopy/android_external_klogtail" remote="github" revision="master" />
   <project path="packages/apps/GaospConf" name="Obihoernchen/gaosp_packages_apps_GaospConf" remote="github" revision="release" />
+  <project path="vendor/cyanogen" name="drakaz/gaosp_vendor_cyanogen" remote="github" revision="gaosp-gingerbread" />
 
 </manifest>
 
