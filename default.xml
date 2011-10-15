@@ -36,7 +36,7 @@
   <project path="external/bluetooth/glib" name="platform/external/bluetooth/glib" />
   <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
-  <project path="external/busybox" name="liudidi/android_external_busybox" remote="github" revision="froyo-stable"/>
+  <project path="external/busybox" name="liudidi/gaosp_external_busybox" remote="github" revision="froyo-stable"/>
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/clearsilver" name="platform/external/clearsilver" />
   <project path="external/compcache" name="liudidi/android_external_compcache" revision="master" remote="github"/>
@@ -119,13 +119,13 @@
   <project path="frameworks/base" name="liudidi/gaosp_frameworks_base" remote="github" revision="gaosp-froyo" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
-  <project path="frameworks/policies/base" name="liudidi/gaosp_frameworks_policies_base" remote="github" revision="gaosp-froyo" />
+  <project path="frameworks/policies/base" name="liudidi/deprecated_gaosp_frameworks_policies_base" remote="github" revision="gaosp-froyo" />
 
   <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound" revision="master" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/libhardware" name="liudidi/android_hardware_libhardware" remote="github" revision="froyo-stable"/>
-  <project path="hardware/libhardware_legacy" name="liudidi/gaosp_hardware_libhardware_legacy" remote="github" revision="gaosp-froyo" />
-  <project path="hardware/msm7k" name="liudidi/gaosp_hardware_msm7k" remote="github" revision="gaosp-froyo"/>
+  <project path="hardware/libhardware_legacy" name="liudidi/deprecated_gaosp_hardware_libhardware_legacy" remote="github" revision="gaosp-froyo" />
+  <project path="hardware/msm7k" name="liudidi/deprecated_gaosp_hardware_msm7k" remote="github" revision="gaosp-froyo"/>
   <project path="hardware/qcom/gps" name="liudidi/gaosp_hardware_qcom_gps" remote="github" revision="gaosp-froyo" />
   <project path="hardware/qcom/mm-core" name="liudidi/android_hardware_qcom_mm-core" remote="github" revision="froyo-stable"/>
   <project path="hardware/qcom/mm-video" name="liudidi/android_hardware_qcom_mm-video" remote="github" revision="froyo-stable"/>
@@ -185,7 +185,7 @@
   <project path="packages/providers/DownloadProvider" name="liudidi/android_packages_providers_DownloadProvider" remote="github" revision="froyo-stable"/>
   <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" />
   <project path="packages/providers/GoogleContactsProvider" name="platform/packages/providers/GoogleContactsProvider" />
-  <project path="packages/providers/MediaProvider" name="liudidi/gaosp_packages_providers_MediaProvider" remote="github" revision="gaosp-froyo" />
+  <project path="packages/providers/MediaProvider" name="liudidi/deprecated_gaosp_packages_providers_MediaProvider" remote="github" revision="gaosp-froyo" />
   <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" />
   <project path="packages/wallpapers/Basic" name="liudidi/android_packages_wallpapers_Basic" remote="github" revision="froyo-stable"/>
@@ -198,8 +198,8 @@
   <project path="system/bluetooth" name="liudidi/gaosp_system_bluetooth" remote="github" revision="gaosp-froyo" />
   <project path="system/core" name="liudidi/gaosp_system_core" remote="github" revision="gaosp-froyo" />
   <project path="system/extras" name="liudidi/android_system_extras" remote="github" revision="froyo-stable"/>
-  <project path="system/netd" name="liudidi/gaosp_system_netd" remote="github" revision="gaosp-froyo" />
-  <project path="system/vold" name="liudidi/gaosp_system_vold" remote="github" revision="gaosp-froyo" />
+  <project path="system/netd" name="liudidi/deprecated_gaosp_system_netd" remote="github" revision="gaosp-froyo" />
+  <project path="system/vold" name="liudidi/deprecated_gaosp_system_vold" remote="github" revision="gaosp-froyo" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
   <project path="PSFreedom" name="liudidi/PSFreedom_I7500" remote="github" revision="master" />
   <project path="PSFreedom/pl3" name="kakaroto/PL3" remote="github" revision="master" />
