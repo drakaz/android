@@ -98,7 +98,7 @@
   <project path="external/speex" name="platform/external/speex" />
   <project path="external/sqlite" name="platform/external/sqlite" />
   <project path="external/srec" name="platform/external/srec" />
-  <project path="external/stlport" name="platform/external/stlport" revision="master" />
+  <project path="external/stlport" name="platform/external/stlport" revision="froyo" />
   <project path="external/strace" name="platform/external/strace" />
   <project path="external/svox" name="platform/external/svox" />
   <project path="external/tagsoup" name="platform/external/tagsoup" />
@@ -194,7 +194,7 @@
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" />
 
   <project path="prebuilt" name="platform/prebuilt" revision="master" />
-  <project path="sdk" name="platform/sdk"  revision="aosp/master"/>
+  <project path="sdk" name="platform/sdk"  revision="korg/aosp/tools_r6"/>
   <project path="system/bluetooth" name="liudidi/gaosp_system_bluetooth" remote="github" revision="gaosp-froyo" />
   <project path="system/core" name="liudidi/gaosp_system_core" remote="github" revision="gaosp-froyo" />
   <project path="system/extras" name="liudidi/android_system_extras" remote="github" revision="froyo-stable"/>
